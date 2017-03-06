@@ -1,0 +1,5 @@
+name = Vilans Kick portaal slimme hyperlink
+description = Automatically retrieves the login token and sends the user to Vilans KICK portaal (no login required)
+core = 7.x
+
+package = Bosqom
